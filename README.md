@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @TheAwsomist
+- 👋 Hi, I’m Abdullah Khurram or @TheAwsomist
 - 👀 I’m interested in Full MERN Stack Development And Web Designing And Machine Learning
 - 🌱 I’m currently learning React JS, MongoDB and UX Designing
 - 💞️ I’m looking to collaborate on anything that would help me polish my skills as a developer
